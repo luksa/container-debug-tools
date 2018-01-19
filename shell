@@ -1,0 +1,4 @@
+#!/tools/sh
+export PATH=$PATH:/tools
+/tools/sh --login
+
